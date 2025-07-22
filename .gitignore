@@ -9,5 +9,5 @@ venv/
 .envrc
 .DS_Store
 *.log
-*.csv
+# *.csv
 cookies.json
